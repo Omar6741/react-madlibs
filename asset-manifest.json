@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-madlibs-second/static/css/main.4d1c4505.chunk.css",
+    "main.js": "/react-madlibs-second/static/js/main.bb9ec8a8.chunk.js",
+    "main.js.map": "/react-madlibs-second/static/js/main.bb9ec8a8.chunk.js.map",
+    "runtime-main.js": "/react-madlibs-second/static/js/runtime-main.c1f470f3.js",
+    "runtime-main.js.map": "/react-madlibs-second/static/js/runtime-main.c1f470f3.js.map",
+    "static/js/2.9e3acd4a.chunk.js": "/react-madlibs-second/static/js/2.9e3acd4a.chunk.js",
+    "static/js/2.9e3acd4a.chunk.js.map": "/react-madlibs-second/static/js/2.9e3acd4a.chunk.js.map",
+    "static/js/3.eb0f40bf.chunk.js": "/react-madlibs-second/static/js/3.eb0f40bf.chunk.js",
+    "static/js/3.eb0f40bf.chunk.js.map": "/react-madlibs-second/static/js/3.eb0f40bf.chunk.js.map",
+    "index.html": "/react-madlibs-second/index.html",
+    "static/css/main.4d1c4505.chunk.css.map": "/react-madlibs-second/static/css/main.4d1c4505.chunk.css.map",
+    "static/js/2.9e3acd4a.chunk.js.LICENSE.txt": "/react-madlibs-second/static/js/2.9e3acd4a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1f470f3.js",
+    "static/js/2.9e3acd4a.chunk.js",
+    "static/css/main.4d1c4505.chunk.css",
+    "static/js/main.bb9ec8a8.chunk.js"
+  ]
+}
